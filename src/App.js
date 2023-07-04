@@ -6,7 +6,6 @@ import Recommend from './components/Recommend'
 import Testimonials from './components/Testimonials'
 import Footer from './components/Footer'
 import ScrollToTop from './components/ScrollToTop'
-import scrollreveal from 'scrollreveal'
 function App() {
   return (
     <div>
